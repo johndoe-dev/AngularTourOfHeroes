@@ -16,6 +16,12 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## HttpClient
+
+Run `npm install angular-in-memory-web-api --save` to install **In-memory Web API** module.  
+The In-memory Web API simulate a server.
+Follow this [tutorial](https://angular.io/tutorial/toh-pt6)
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
